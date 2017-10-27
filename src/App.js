@@ -1,21 +1,12 @@
 
-import { Component } from 'react';
-import ReactDOM from "react-dom";
-import './index.css';
+//import React from 'react';
+import ReactDOM from 'react-dom';
+import React, { Component} from 'react';
 
-class App extends React.Component {
+class ToDoList extends React.Component {
   render() {
-    return (
-      <div className="shopping-list">
-        <h1>Shopping List for {this.props.name}</h1>
-        <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
-        </ul>
-      </div>
-    );
+    return ( <div> HELLO BLA</div>);
   }
 }
 
-export default App;
+

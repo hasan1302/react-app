@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "create-react-class": "^15.6.2",
+    "elemental": "^0.6.1",
     "react": "^16.0.0",
+    "react-addons-transition-group": "^15.6.2",
     "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14"
+    "react-scripts": "1.0.14",
+    "react-tether": "0.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
